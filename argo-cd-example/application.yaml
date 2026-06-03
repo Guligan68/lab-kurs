@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/argoproj/argocd-example-apps.git # This is a placeholder, usually it would be THIS repo
+    repoURL: https://github.com/Guligan68/lab-kurs.git
     targetRevision: HEAD
     path: guestbook
   destination:
